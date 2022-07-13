@@ -23,20 +23,3 @@
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="./images/docker.png"></a> </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="./images/bash.png"></a>
-
-
-
-<br>
-
-### 📊 Github Stats
-
-![](https://komarev.com/ghpvc/?username=tdnavarrom&color=blue)
-
-
-<p align="center">
-    <summary>💻 GitHub Profile Stats</summary>
-    <br>
-    <a href="https://github.com/tdnavarrom/github-readme-stats"><img alt="tdnavarrom's Github Stats" src="https://github-readme-stats-kappa-lime.vercel.app/api?username=tdnavarrom&count_private=true&show_icons=true&theme=nord" height="192px"/></a>
-    <a href="https://github.com/tdnavarrom/github-readme-stats"><img alt="tdnavarrom's Top Languages" src="https://github-readme-stats-kappa-lime.vercel.app/api/top-langs/?username=tdnavarrom&langs_count=6&layout=compact&theme=nord" height="192px"/></a>
-</p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
