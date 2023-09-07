@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on DevOps and other personal projects...
 - 🌱 I’m currently learning CyberSecurity
 - 💬 Ask me about Linux/Vagrant/Docker.
-- 📫 How to reach me: tdnavarrom@eafit.edu.co
+- 📫 How to reach me: to_navar@live.concordia.ca
 
 
 
